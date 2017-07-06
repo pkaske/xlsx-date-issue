@@ -1,0 +1,22 @@
+{
+  "name": "xlsx-date-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkaske/xlsx-date-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkaske/xlsx-date-issue/issues"
+  },
+  "homepage": "https://github.com/pkaske/xlsx-date-issue#readme",
+  "dependencies": {
+    "xlsx": "^0.10.7"
+  }
+}
